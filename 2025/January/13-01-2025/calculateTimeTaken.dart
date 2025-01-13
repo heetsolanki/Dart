@@ -1,4 +1,4 @@
-void calculateDistance() {
+void calculateTimeTaken() {
   int speed = 25;
   int distance = 40;
   double timeTaken = distance / speed;
@@ -6,5 +6,5 @@ void calculateDistance() {
 }
 
 void main() {
-  calculateDistance();
+  calculateTimeTaken();
 }
